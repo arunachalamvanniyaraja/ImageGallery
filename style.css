@@ -1,0 +1,81 @@
+*{
+    background-color: purple;
+    color: white;
+}
+.header{
+    text-align: center;
+    display: inline;
+}
+p{
+    display: inline-block;
+}
+.one{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.lion{
+    width: 300px;
+   
+    margin: 20px;
+    padding: 5px;
+    flex-grow: 1;
+    flex-basis: 20%;
+}
+.tiger{
+    width: 300px;
+    
+    margin: 20px;
+    padding: 5px;
+    flex-grow: 1;
+    flex-basis: 20%;
+}
+.elephant{
+    width: 300px;
+   
+    margin: 20px;
+    padding: 5px;
+    flex-grow: 1;
+    flex-basis: 20%;
+}
+.horse{
+    width: 300px;
+   
+    margin: 20px;
+    padding: 5px;
+    flex-grow: 1;
+    flex-basis: 20%;
+}
+.deer{
+    width: 300px;
+    
+    margin: 20px;
+    padding: 5px;
+    flex-grow: 1;
+    flex-basis: 20%;
+}
+.goat{
+    width: 300px;
+   
+    margin: 20px;
+    padding: 5px;
+    flex-grow: 1;
+    flex-basis: 20%;
+}
+.monkey{
+    width: 300px;
+   
+    margin: 20px;
+    padding: 5px;
+    flex-grow: 1;
+    flex-basis: 20%;
+}
+.dog{
+    width: 300px;
+    
+    margin: 20px;
+    padding: 5px;
+    flex-grow: 1;
+    flex-basis: 20%;
+}
