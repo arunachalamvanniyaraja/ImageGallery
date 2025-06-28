@@ -15,9 +15,6 @@ The **Book List Web App** is a simple and interactive web application that allow
 - **CSS** – Styles the interface with vibrant UI and modern layout
 - **JavaScript** – Handles logic, interactions, and DOM manipulation
 
-## 📷 Screenshots
-
-![Screenshot of Book List Web App](screenshot.png) <!-- Add actual image or remove this section if not available -->
 
 ## 🔧 Setup Instructions
 
